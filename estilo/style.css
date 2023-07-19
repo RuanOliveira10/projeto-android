@@ -105,6 +105,7 @@ header > p{
     font-size: 20px;
     max-width: 500px;
     margin: auto;
+    padding-bottom: 25px;
 }
 
 main h1{
